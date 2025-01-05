@@ -1,0 +1,21 @@
+Code Name:
+Class-02
+
+Writing Paragraph == <p></p>
+Bold the word == <b></b>
+Important Note == <storng></storng>
+Meaningfull or Empathize === <em></em>
+
+Class-03
+Hedding === h1-6
+Inline Block
+small
+span
+
+Class-04
+List Item === <li></li>
+Un-Ordered List === <ul></ul>
+Ordered List == <ol><ol>
+nested list item
+Break in the middle of a paragraph line === <br>
+making click button === <button></button>
